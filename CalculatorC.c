@@ -18,9 +18,8 @@ int main(void)
     //This initializes the variables used for case 15 and 16 (midpoint and slope)
     float x1, x2, y1, y2;
 
-    //Provides information to the user, including what the code is, and the latest patch.
+    //Provides information to the user, including what the code is.
     printf("Calculator in C, made by Krisztian Drimba.\n");
-        printf("Patch 1.3.7: NEW CALCULATIONS AVAILABLE! OPTIONS 15 AND 16 ARE BUGGED THEY DO NOT WORK!\n");
 
     int count = 1; //Loops the code
     while (count >= 1)
